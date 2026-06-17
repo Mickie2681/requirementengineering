@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Requirement Engineering Prototype
 
 A React + Vite prototype for a requirement engineering tool or demonstration application.
@@ -59,6 +59,6 @@ npm run preview
 
 - The project is configured as an ES module package (`type: module`).
 - This README is meant to help developers run and build the prototype locally.
-=======
+
 # requirementengineering
 >>>>>>> 781f8a10ce85797a37f8b27fa78458fc681f4c9f
